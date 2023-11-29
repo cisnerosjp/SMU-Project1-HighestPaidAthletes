@@ -13,3 +13,4 @@
 
 ### Datasets Used:
 
+The datasets used in this project were both sourced from Kaggle, which is described by Wikipedia as a, "data science competition platform and online community of data scientists and machine learning practitioners under Google LLC." 
